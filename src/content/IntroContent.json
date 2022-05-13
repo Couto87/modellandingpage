@@ -1,12 +1,12 @@
 {
-  "title": "Landing page template for developers & startups",
-  "text": "Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.",
+  "title": "Meu nome é Claudio Couto, sou freelancer desenvolvo sites e automatizações",
+  "text": "Se você precisa de uma landing pade com um lindo desing, que abre rápido e permanece 99,9% no ar, salve agora seu projeto, entre em contato comigo.",
   "button": [
     {
-      "title": "Explore"
+      "title": "Entrar em contato"
     },
     {
-      "title": "Learn more",
+      "title": "Saiba mais'",
       "color": "#fff"
     }
   ]

@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive claudioweb _",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Leve, rápido e responsivo",
+  "text": "Ao desenvolver um site, sistema ou automação comigo você não precisa de nenhum conhecimento técnico e foca no que importa que é seu negocio.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Porque eu?",
+      "content": "pra ter um site, leve, rápido e lindo.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Como saber a velocidade do site?",
+      "content": "procura no googe, tem diversas ferramentas, testa esse site e o do concorrente.",
       "icon": "notes.svg"
     }
   ]
