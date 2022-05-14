@@ -62,8 +62,11 @@ const Header = ({ t }: any) => {
     <HeaderSection>
       <Container>
         <Row justify="space-between">
+<<<<<<< HEAD
           <LogoContainer to="/" aria-label="homepage">
           </LogoContainer>
+=======
+>>>>>>> 53abc915394ecc2256acf48f0036a32096d938cb
           <NotHidden>
             <MenuItem />
           </NotHidden>
